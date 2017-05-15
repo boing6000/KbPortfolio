@@ -1,0 +1,12 @@
+{
+  "name": "boing6000/plugin-kbportfolio",
+  "version": "2.00",
+  "autoload": {
+    "psr-4": {"Plugin\\KbPortfolio\\": "/"}
+  },
+  "minimum-stability": "stable",
+  "license": [
+    "MIT",
+    "GPL-3.0+"
+  ]
+}

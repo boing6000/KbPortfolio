@@ -1,0 +1,22 @@
+{
+    "title": "Portfolio",
+    "version": "1.00",
+    "name": "KbPortfolio",
+    "description": "Sistema de Notícias.",
+    "icon": "fa-camera",
+    "author": "André L B Teodoro",
+    "options": [
+        {
+            "label": "Prefixo na Url",
+            "name": "newsPrefix",
+            "type": "TextLang",
+            "default": "portfolio"
+        },
+        {
+            "label": "Limite de Imagens por Item",
+            "name": "imageLimit",
+            "type": "Number",
+            "default": "10"
+        }
+    ]
+}
